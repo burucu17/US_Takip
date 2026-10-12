@@ -34,7 +34,7 @@ US_HISSELERI = [
     "RIVN", "LCID", "NIO", "XPEV", "LI", "F", "GM",
     
     # === YARI İLETKEN (Ek) ===
-    "MU", "AMAT", "LRCX", "KLAC", "MRVL", "NXPI", "ON", "MPWR",
+    "MU", "AMAT", "LRCX", "KLAC", "MRVL", "NXPI", "ON", "MPWR", "STKH", "PAYO"
     
     # === SİBER GÜVENLİK ===
     "PANW", "CRWD", "ZS", "FTNT", "S", "CHKP",
