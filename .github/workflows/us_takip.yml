@@ -2,9 +2,9 @@ name: US_Takip
 
 on:
   schedule:
-    - cron: '0 11 * * 1-5'    # Türkiye 17:00 (UTC 14:00) - Açılıştan sonra
-    - cron: '0 16 * * 1-5'    # Türkiye 20:00 (UTC 17:00) - Öğleden sonra
-    - cron: '30 19 * * 1-5'   # Türkiye 23:30 (UTC 20:30) - Kapanıştan sonra
+    - cron: '30 15 * * 1-5'    # Türkiye 17:00 (UTC 14:00) - Açılıştan sonra
+    - cron: '0 20 * * 1-5'    # Türkiye 20:00 (UTC 17:00) - Öğleden sonra
+    - cron: '30 22 * * 1-5'   # Türkiye 23:30 (UTC 20:30) - Kapanıştan sonra
   
   workflow_dispatch:  # Manuel çalıştırma
 
